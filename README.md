@@ -1,1 +1,2 @@
-people/books spring proj
+pet-proj: people/books library 
+spring/hibernate/postgresql/thymeleaf
